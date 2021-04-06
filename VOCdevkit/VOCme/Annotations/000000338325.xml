@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>000000338325.jpg</filename>
+	<path>E:\make_dataset_yolo\photo\000000338325.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>air</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>141</ymin>
+			<xmax>451</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>
